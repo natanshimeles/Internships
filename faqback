@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/style2.css">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+	<title>FAQ Page</title>
+  <link rel="stylesheet" type="text/css" href="faqsstyle.css">
+</head>
+<body class=" maincontainer">
+	<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
+		<source src="polina.webm" type="video/webm">
+		<source src="polina.mp4" type="video/mp4">
+	</video>
+	<div class="container-fluid">
+
+		<nav class="navbar fixed-top navbar-expand-md bg-dark navbar-dark navbar-custom">
+			<div class="container">
+				<a class="navbar-brand " href="index.html"> <img src="img/logo.jpg" class="img-fluid" alt="Responsive image" alt="" style="height:75px;" > </a>
+
+				<button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav mr-auto ml-md-5">
+						<li class="nav-item">
+							<a class="nav-link" href="faqs.html">FAQ </a>
+						</li>
+						<li class="nav-item">
+
+							<a class="nav-link" href="#about-us">About us</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#about-us">Contact us</a>
+						</li>
+						<li class="nav-item  active">
+							<a class="nav-link" href="apply.html">Apply now <span class="sr-only">(current)</span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <div class="mt-5">
+    <h2 class="text-center" style="font-size:1.5rem;">Things to consider before <strong>Renting an Apartment</strong></h2>
+  </div>
+
+
+<section class="cd-faq">
+
+	<ul class="cd-faq-categories">
+
+		<li><a class="selected" href="#basics">Basics</a></li>
+
+	</ul> <!-- cd-faq-categories -->
+
+   <div class="cd-faq-items">
+      <ul id="basics" class="cd-faq-group">
+				<br>
+				<br>
+			 <br>
+			 <br>
+			 <br>
+
+         <li>
+
+
+            <a class="cd-faq-trigger" href="#0">1. Payment method</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               The rent is usually paid in every 6 or 12 months in advance, or in some cases 3 months
+                in advance. (The apartment price can be bargained for longer payment interval)
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">2. Apartment booking</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               Once you are satisfied with the apartment, the contract is signed on the same day. In a
+               rare case like the contract couldn’t be signed after viewing, the apartment is booked. The
+               booking fee ranges from 500 RMB to one months rent. It paid to the landlord as an
+               insurance. Once the apartment is booked, the landlord can not give the apartment to
+               someone else. In an unfortunate case, if the landlord gives the apartment to someone
+               else then you will be compensated twice the deposited amount. And if lesser decides not
+               to rent the apartment, the landlord will keep the deposit as a compensation.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">3. Security deposit</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               Usually one month's rent is paid to the landlord as a security deposit when signing the
+               contract. The security deposit will be returned to the lessee at the end of the contract
+               after checking the apartment for damages. The damages to the apartment should be
+               repaired before renting out or will be deducted from the security deposit.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">4. Agency fee</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               The real estate agency fee is half of one month’s rent all over china, paid when signing
+               the contract. However, we always provide our clients with discounts. The discount
+               amount varies with various situations.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">5. Repairs</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               All the equipment and appliances and the apartment is checked for their usual working
+               condition before signing the contract. For the first month, all of the repairs is handled by
+               the landlord. Starting from the second month the repairs are to be done by the lessee.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">6. Police registration</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               According to the regulations of Nanjing government, all the foreigners who move to a
+               new place should register in the local police station within 24 hours from the beginning
+               of the contract. The fine for failing to do so is 2000 yuan maximum.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">7. Utility bills payment</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               According to the regulations of Nanjing government, all the foreigners who move to a
+               new place should register in the local police station within 24 hours from the beginning
+               of the contract. The fine for failing to do so is 2000 yuan maximum.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">8. Viewing charges</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               Our clients are picked up at their location and dropped off after viewing the apartments
+               in our company car. The fee up to 50 RMB depending on the distance. The viewings are
+               free for viewing was the nearby apartments.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">9. After sales services</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               We help foreigners with house moving service at a lower price than the usual Chinese
+               companies price. Other services include housecleaning, locksmith, cooking maid and so
+               on. After signing the contract, our clients can contact us anytime whenever they have
+               issues like repair needs, bills payment, police registration.
+            </div>
+         </li>
+
+         <li>
+            <a class="cd-faq-trigger" href="#0">10. Things to carry with you to sign rental contract</a>
+            <div class="cd-faq-content">
+               <!-- content here -->
+               Your passport, rent money or booking money.
+            </div>
+						<br>
+         </li>
+		</ul> <!-- cd-faq-group -->
+	</div> <!-- cd-faq-items -->
+	<a href="#0" class="cd-close-panel">Close</a>
+</section> <!-- cd-faq -->
+<br>
+</div>
+<br>
+<br>
+
+
+
+  <!--Footer-->
+  <footer class="p-4 mt-0" id="about-us">
+
+    <!-- Copyright-->
+    <div class="container ">
+			<div class="row">
+        <div class="col-md-6">
+      © 2018 Copyright
+
+    </div>
+
+    <!--  <span class="contact">-->
+    <div class="col-md-6 " >
+        <i class="fa fa-facebook" style="padding:3px;font-size:48px;color:red;"><a></a></i>
+        <i class="fa fa-twitter" style="padding:3px;font-size:48px;color:red"><a></a></i>
+        <i class="fa fa-weixin" style="padding:3px;font-size:48px;color:red"><a></a></i>
+    <!--  </span>-->
+  </div>
+    </div>
+	</div>
+
+    <a href="#" class="go-top"><i class="fa fa-angle-up  fa-2x cyan-text" aria-hidden="true"></i></a>
+    <!---==============================Javascript=========================================================-->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        //Show or hide Go-Top button
+        $(window).scroll(function() {
+          if ($(this).scrollTop() > 700) {
+            $('.go-top').fadeIn(200);
+          } else {
+            $('.go-top').fadeOut(200);
+          }
+
+        })
+
+        //Animate the scroll to top
+        $('.go-top').click(function(event) {
+          event.preventDefault();
+          $('html,body').animate({
+            scrollTop: 0
+          }, 300);
+
+        })
+
+      })
+    </script>
+    <!--/.Copyright -->
+
+  </footer>
+  <!--/.Footer-->
+
+
+
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/jquery.mobile.custom.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
